@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @herzstein-dev
+- 👋 Hi, I’m @geschnee
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Reinforcement Learning
