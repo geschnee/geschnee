@@ -70,7 +70,16 @@ Bisher belegte Module
     * Big Data Praktikum
     * Multivariate Datenanalyse und Data Mining
     * Grundlagen Komplexer Systeme (S)
+* Wintersemester 2022
+    * Wissenschaftliche Visualisierung
+    * Verfahren und Anwendungen in den Digital Humanities
+    * Praktikum für Data Warehousing und Data Mining
+* Sommersemester 2023
+    * Artificial Intelligence & Machine Learning in Finance
     * Skalierbare Datenbanktechnologien 2
+    * Data Preparation & Cleaning
+    * Probabilistisches Maschinelles Lernen
+    * Aktuelle Trends in Data Science / Optimization for Machine Learning
 
 ### Bachelor of Computer Science
 
