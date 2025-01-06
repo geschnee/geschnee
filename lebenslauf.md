@@ -13,16 +13,22 @@
 
 | Zeitraum  | Organisation | Tätigkeit |
 | ------------- | ------- | ------------- |
-| 07/2024 - 09/2024  | [Sommerprojekt](#Sommerprojekt) | Recherche |
+| 07/2024 - 09/2024  | [Praktikum Digital Health](#Praktikum) | Recherche |
 | 10/2021 – 06/2024  | [Universität Leipzig](#Universität-Leipzig)  | M. SC. Data Science |
 | 03/2020 – 07/2022  | [IT Sonix Custom Development](#IT-Sonix-Custom-Development)  | Java Entwickler und DevOps Engineer |
 | 10/2019 – 03/2020  | [LEIPZIG-LAB by VISIT e.V.](#LEIPZIG-LAB-by-VISIT-e.V.)  | Software Entwickler |
 | 10/2016 – 09/2019  | [University of Malta](#University-of-Malta) | B. SC. Information Technology (AI) |
 
+### Praktikum
+
+Das Praktikum fand im Rahmen der EKFZ for Digital Health - Summer School 2024 statt. In dem Praktikum habe ich eine Literaturrecherche zu den existierenden Methoden im Umgang mit fehlenden Daten durchgeführt. Anschließend habe ich die Methoden im Kontext des IntelliLung Projekts des Universitätsklinikums
+Carl Gustav Carus Dresden verglichen.
+
+Zeugnis auf Anfrage
+
 ### Universität Leipzig
 
 Programm: [M. SC. Data Science](https://www.uni-leipzig.de/studium/vor-dem-studium/studienangebot/studiengang/course/show/data-science-m-sc)
-
 
 Masterarbeit: [End-To-End Reinforcement Learning Training of a Convolutional Neural Network to Achieve an Autonomous Driving Agent on Tracks in Simulation](https://github.com/geschnee/carsim-rl-cnn)
 
@@ -101,14 +107,17 @@ Titel der Abschlussarbeit:
 
 ## IT-Kenntnisse
 
-* Python, Tensorflow und PyTorch
-* Ansible, Jenkins
-* Java
-* DB2 SQL
-* IBM WAS
-* Docker
+* Python
+  * Pandas
+  * Tensorflow
+  * PyTorch
 * C# und Unity GameEngine
-
+* DB2 SQL
+* Docker
+* Ansible
+* Jenkins
+* Java
+* IBM WAS
 
 ## Weitere Kenntnisse
 
@@ -118,7 +127,4 @@ Titel der Abschlussarbeit:
     * Japanisch (mittel)
 * Führerschein Klasse B
 * Jira und Agile
-
-
-
 
