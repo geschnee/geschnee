@@ -62,7 +62,6 @@ Masterarbeit: [End-To-End Reinforcement Learning Training of a Convolutional Neu
 |  | **Overall result**  | **1.9** | **120** |
 
 
-
 ### IT Sonix Custom Development
 
 Arbeit in 3 Teams, Zwischenzeugnis auf Anfrage
