@@ -29,7 +29,7 @@ Masterarbeit: [End-To-End Reinforcement Learning Training of a Convolutional Neu
 Noten:
 
 | Module number  | Module Title | Grade | CP | 
-| ------------- | ------- | ------------- | ----| |
+| ------------- | ------- | ------------- | ---- |
 |    | Compulsory Area |  | 15 |
 | 10/2021 – 06/2024  | [Universität Leipzig](#Universität-Leipzig)  | M. SC. Data Science | ss |
 | 03/2020 – 07/2022  | [IT Sonix Custom Development](#IT-Sonix-Custom-Development)  | Java Entwickler und DevOps Engineer | ss |
