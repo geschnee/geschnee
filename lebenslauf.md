@@ -9,13 +9,58 @@
 | Telefonnummmer | 01577 1832768 |
 | E-Mail | g.m.schneeberger@gmail.com |
 
-## Berufserfahrung
+## Tätigkeiten
 
-| Zeitraum  | Firma | Tätigkeit |
+| Zeitraum  | Organisation | Tätigkeit |
 | ------------- | ------- | ------------- |
+| 07/2024 - 09/2024  | [Sommerprojekt](#Sommerprojekt) | Recherche |
+| 10/2021 – 06/2024  | [Universität Leipzig](#Universität-Leipzig)  | M. SC. Data Science |
 | 03/2020 – 07/2022  | [IT Sonix Custom Development](#IT-Sonix-Custom-Development)  | Java Entwickler und DevOps Engineer |
 | 10/2019 – 03/2020  | [LEIPZIG-LAB by VISIT e.V.](#LEIPZIG-LAB-by-VISIT-e.V.)  | Software Entwickler |
+| 10/2016 – 09/2019  | [University of Malta](#University-of-Malta) | B. SC. Information Technology (AI) |
 
+### Universität Leipzig
+
+Programm: [M. SC. Data Science](https://www.uni-leipzig.de/studium/vor-dem-studium/studienangebot/studiengang/course/show/data-science-m-sc)
+
+
+Masterarbeit: [End-To-End Reinforcement Learning Training of a Convolutional Neural Network to Achieve an Autonomous Driving Agent on Tracks in Simulation](https://github.com/geschnee/carsim-rl-cnn)
+
+Noten:
+
+| Module number  | Module Title | Grade | CP | 
+| ------------- | ------- | ------------- | ----| |
+|    | Compulsory Area |  | 15 |
+| 10/2021 – 06/2024  | [Universität Leipzig](#Universität-Leipzig)  | M. SC. Data Science | ss |
+| 03/2020 – 07/2022  | [IT Sonix Custom Development](#IT-Sonix-Custom-Development)  | Java Entwickler und DevOps Engineer | ss |
+|    | Scalable Data Management |  | 25 |
+| 10/2019 – 03/2020  | [LEIPZIG-LAB by VISIT e.V.](#LEIPZIG-LAB-by-VISIT-e.V.)  | Software Entwickler | ss |
+| 10/2016 – 09/2019  | [University of Malta](#University-of-Malta) | B. SC. Information Technology (AI) | ss |
+
+
+
+
+Den Master habe ich im Oktober 2021 angefangen, als Masterarbeit möchte ich etwas mit Reinforcement Learning machen. Siehe [Interessen](./interessen.md)
+
+Bisher belegte Module
+* Wintersemester 2021
+    * Skalierbare Datenbanktechnologien 1
+    * Grundlagen der Parallelverarbeitung
+    * Graphen und biologische Netze
+* Sommersemester 2022
+    * Big Data Praktikum
+    * Multivariate Datenanalyse und Data Mining
+    * Grundlagen Komplexer Systeme (S)
+* Wintersemester 2022
+    * Wissenschaftliche Visualisierung
+    * Verfahren und Anwendungen in den Digital Humanities
+    * Praktikum für Data Warehousing und Data Mining
+* Sommersemester 2023
+    * Artificial Intelligence & Machine Learning in Finance
+    * Skalierbare Datenbanktechnologien 2
+    * Data Preparation & Cleaning
+    * Probabilistisches Maschinelles Lernen
+    * Aktuelle Trends in Data Science / Optimization for Machine Learning
 
 ### IT Sonix Custom Development
 
@@ -48,46 +93,16 @@ Tätigkeit als DevOps Engineer
     * Google Cardboard
 * Schulungen und Konferenzen
 
-## Ausbildung & Schule
+### University of Malta
 
-| Zeitraum  | Tätigkeit | Institution |
-| ------------- | ------- | ------------- |
-| 10/2022 – heute  | [Master of Data Science](#Master-Data-Science)  | Universität Leipzig, Leipzig |
-| 10/2016 – 09/2019  | [Bachelor of Computer Science](#Bachelor-of-Computer-Science)  | University of Malta, Malta |
-| 2008 – 2016  | Abitur  | Rudolf-Hildebrand-Schule, Markkleeberg |
-| 2013  | mehrmonatiger Schüleraustausch | Lycée Freppel, Frankreich |
-
-### Master Data Science
-
-Den Master habe ich im Oktober 2021 angefangen, als Masterarbeit möchte ich etwas mit Reinforcement Learning machen. Siehe [Interessen](./interessen.md)
-
-Bisher belegte Module
-* Wintersemester 2021
-    * Skalierbare Datenbanktechnologien 1
-    * Grundlagen der Parallelverarbeitung
-    * Graphen und biologische Netze
-* Sommersemester 2022
-    * Big Data Praktikum
-    * Multivariate Datenanalyse und Data Mining
-    * Grundlagen Komplexer Systeme (S)
-* Wintersemester 2022
-    * Wissenschaftliche Visualisierung
-    * Verfahren und Anwendungen in den Digital Humanities
-    * Praktikum für Data Warehousing und Data Mining
-* Sommersemester 2023
-    * Artificial Intelligence & Machine Learning in Finance
-    * Skalierbare Datenbanktechnologien 2
-    * Data Preparation & Cleaning
-    * Probabilistisches Maschinelles Lernen
-    * Aktuelle Trends in Data Science / Optimization for Machine Learning
-
-### Bachelor of Computer Science
+Programm: [Bachelor of Science in Information Technology (Honours) (Artificial Intelligence)](https://www.um.edu.mt/courses/overview/ubscitharift-2025-6-o/)
 
 Fachrichtung: 
-* Künstliche Intelligenz und  Softwareentwicklung
+* Künstliche Intelligenz und Softwareentwicklung
 
 Titel der Abschlussarbeit: 
-* Inflection of Maltese using Neural	Networks
+* Inflection of Maltese using Neural Networks
+
 
 ## IT-Kenntnisse
 
