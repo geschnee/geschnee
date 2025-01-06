@@ -26,7 +26,7 @@ Programm: [M. SC. Data Science](https://www.uni-leipzig.de/studium/vor-dem-studi
 
 Masterarbeit: [End-To-End Reinforcement Learning Training of a Convolutional Neural Network to Achieve an Autonomous Driving Agent on Tracks in Simulation](https://github.com/geschnee/carsim-rl-cnn)
 
-Noten:
+#### Transcript of records
 
 | Module number  | Module Title | Grade | CP | 
 | ------------- | ------- | ------------- | ---- |
@@ -43,41 +43,19 @@ Noten:
 | 10-202-2201  | Visualisation  | 2.3 | 10 |
 | 07-202-2302  | Multivariate Statistics and Data Mining  | 3.7 | 10 |
 | 10-INF-DS202  | Probabilistic Machine Learning  | 1.0 | 5 |
-|    | Application and Supplemental Area |  | 25 |
+|    | Application and Supplemental Area |  | 30 |
 | 10-201-2219V  | Foundations of Parallel Processing (V)  | 1.7 | 5 |
 | 10-INF-DS301  | Current Trends in Data Science  | 1.3 | 5 |
 | 10-202-2205  | Graphs and Biological Nets  | 1.0 | 10 |
 | 10-DIH-0001  | Methods and Applications in the Digital Humanities  | 1.7 | 10 |
 |    | Master's thesis |  | 25 |
 |    | End-To-End Reinforcement Learning Training of a Convolutional Neural Network to Achieve an Autonomous Driving Agent on Tracks in Simulation | 2.1 | 25 |
-|    | Additional Achievements |  |  |
-| 07-201-2412  | Artificial Intelligence & Machine Learning in Finance  | 2.0* | 5 |
-| 10-202-2218S  | Foundations of Complex Systems (S)  | 1.8* | 5 |
-|  | Overall result  | 1.9 | 120 |
+|    | Additional Achievements (not included in overal grading) |  |  |
+| 07-201-2412  | Artificial Intelligence & Machine Learning in Finance  | 2.0 | 5 |
+| 10-202-2218S  | Foundations of Complex Systems (S)  | 1.8 | 5 |
+|  | **Overall result**  | **1.9** | **120** |
 
 
-
-Den Master habe ich im Oktober 2021 angefangen, als Masterarbeit möchte ich etwas mit Reinforcement Learning machen. Siehe [Interessen](./interessen.md)
-
-Bisher belegte Module
-* Wintersemester 2021
-    * Skalierbare Datenbanktechnologien 1
-    * Grundlagen der Parallelverarbeitung
-    * Graphen und biologische Netze
-* Sommersemester 2022
-    * Big Data Praktikum
-    * Multivariate Datenanalyse und Data Mining
-    * Grundlagen Komplexer Systeme (S)
-* Wintersemester 2022
-    * Wissenschaftliche Visualisierung
-    * Verfahren und Anwendungen in den Digital Humanities
-    * Praktikum für Data Warehousing und Data Mining
-* Sommersemester 2023
-    * Artificial Intelligence & Machine Learning in Finance
-    * Skalierbare Datenbanktechnologien 2
-    * Data Preparation & Cleaning
-    * Probabilistisches Maschinelles Lernen
-    * Aktuelle Trends in Data Science / Optimization for Machine Learning
 
 ### IT Sonix Custom Development
 
