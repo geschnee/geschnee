@@ -13,7 +13,7 @@
 
 | Zeitraum  | Organisation | Tätigkeit |
 | ------------- | ------- | ------------- |
-| 07/2024 - 09/2024  | [Praktikum Digital Health](#Praktikum) | Recherche |
+| 07/2024 - 09/2024  | [Praktikum Digital Health](#Praktikum) | Recherche Data Imputation |
 | 10/2021 – 06/2024  | [Universität Leipzig](#Universität-Leipzig)  | M. SC. Data Science |
 | 03/2020 – 07/2022  | [IT Sonix Custom Development](#IT-Sonix-Custom-Development)  | Java Entwickler und DevOps Engineer |
 | 10/2019 – 03/2020  | [LEIPZIG-LAB by VISIT e.V.](#LEIPZIG-LAB-by-VISIT-e.V.)  | Software Entwickler |
@@ -21,8 +21,7 @@
 
 ### Praktikum
 
-Das Praktikum fand im Rahmen der EKFZ for Digital Health - Summer School 2024 statt. In dem Praktikum habe ich eine Literaturrecherche zu den existierenden Methoden im Umgang mit fehlenden Daten durchgeführt. Anschließend habe ich die Methoden im Kontext des IntelliLung Projekts des Universitätsklinikums
-Carl Gustav Carus Dresden verglichen.
+Das Praktikum fand im Rahmen der EKFZ for Digital Health - Summer School 2024 statt. In dem Praktikum habe ich eine Literaturrecherche zu den existierenden Methoden im Umgang mit fehlenden Daten (Data Imputation) durchgeführt. Anschließend habe ich die Methoden im Kontext des IntelliLung Projekts des Universitätsklinikums Carl Gustav Carus Dresden verglichen.
 
 Zeugnis auf Anfrage
 
@@ -66,18 +65,19 @@ Masterarbeit: [End-To-End Reinforcement Learning Training of a Convolutional Neu
 
 Arbeit in 3 Teams, Zwischenzeugnis auf Anfrage
 
-Tätigkeit als java Entwickler
+Tätigkeit als Java Entwickler
 * internes Jira Team 
 	* Plugin Entwicklung mit Java
-* Kundenprojekt 1:
+* Automotive Kundenprojekt:
     * Java Backend
-	* SQL
+	* DB2 SQL
 	* JavaScript Ember Frontend
 	* Java RCP
 
 Tätigkeit als DevOps Engineer
-* Kundenprojekt 2:
+* Automotive Kundenprojekt:
 	* Automatisierung mit Ansible und Jenkins
+	* Releasemanagement
 	* IBM DB2
     * IBM WAS
 	* Docker
@@ -112,10 +112,10 @@ Titel der Abschlussarbeit:
   * PyTorch
 * C# und Unity GameEngine
 * DB2 SQL
+* Java
 * Docker
 * Ansible
 * Jenkins
-* Java
 * IBM WAS
 
 ## Weitere Kenntnisse
