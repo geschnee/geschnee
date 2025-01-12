@@ -7,20 +7,20 @@
 | Python Pytorch | 3 | 4 | Studium, Hobbyprojekte |
 | Python Beautifulsoup | 2 | 1 | Hobbyprojekt |
 | SQL | 4 | 5 | Studium, IT Sonix |
-| C# | 4 | 5 | Leipzig-Lab, Studium, Masterarbeit |
-| Unity | 4 | 5 | Android App Development, Studium, Leipzig-Lab |
+| C# | 4 | 5 | Studium, Leipzig-Lab, Masterarbeit |
+| Unity | 4 | 5 | Studium, Android App Development, Leipzig-Lab |
 | Shell Scripting | 3 | 3 |  Leipzig-Lab , IT Sonix, Hobbyprojekt |
-| Java  | 3 | 6 | Android App Development, Studium, IT Sonix |
+| Java  | 3 | 6 | Studium, Android App Development, IT Sonix |
 | HTML + CSS | 2 | 3 | Studium, IT Sonix, Hobbyprojekt |
 | C++  | 2 | 5 | Studium |
 | C  | 2 | 5 | Studium |
 | JavaScript | 2 | 3 | Studium, IT Sonix |
-| R | 1.5 | 2 | Studium |
+| R | 2 | 2 | Studium |
 | **Fachbereiche** |  |  |  |
 | Machine Learning | 4 | 6 | Studium, Hobbyprojekte |
-| Kryptographie | 3 | 2 | Leipzig-Lab, IT Sonix, Studium |
+| Kryptographie | 3 | 2 | Studium, Leipzig-Lab, IT Sonix |
 | **Methodik** |  |  |  |
-| Scrum |  | 2 | IT Sonix |
+| Scrum | 3 | 2 | IT Sonix |
 | **Werkzeuge** |  |  |  |
 | Ansible | 4 | 2 | IT Sonix |
 | Power BI  | 3 | 1 | Hobbyprojekt |
