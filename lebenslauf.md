@@ -87,11 +87,12 @@ Tätigkeit als DevOps Engineer
 ### LEIPZIG-LAB by VISIT e.V.
 
 * Anwendungsentwicklung
-    * Opensimulator
+    * OpenSimulator
     * Unity
     * Android
     * Google Cardboard
-* Schulungen und Konferenzen
+* Teilnahme an Schulungen und Konferenzen
+  * OpenSimulator Community Conference
 
 ### University of Malta
 
