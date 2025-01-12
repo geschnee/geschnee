@@ -8,7 +8,7 @@
 | Python Beautifulsoup | 2 | 1 | Hobbyprojekt |
 | SQL | 4 | 5 | Studium, IT Sonix |
 | C# | 4 | 5 | Studium, Leipzig-Lab, Masterarbeit |
-| Unity | 4 | 5 | Studium, Android App Development, Leipzig-Lab |
+| Unity | 4 | 5 | Studium, Android App Development, Leipzig-Lab, Masterarbeit |
 | Shell Scripting | 3 | 3 |  Leipzig-Lab , IT Sonix, Hobbyprojekt |
 | Java  | 3 | 6 | Studium, Android App Development, IT Sonix |
 | HTML + CSS | 2 | 3 | Studium, IT Sonix, Hobbyprojekt |
