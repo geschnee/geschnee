@@ -14,7 +14,7 @@
 | Zeitraum  | Organisation | Tätigkeit |
 | ------------- | ------- | ------------- |
 | 10/2024 - jetzt  | [Visit e.V.](#VISIT-e.V.) | IT Operations, Web Hosting |
-| 07/2024 - 09/2024  | [Praktikum Digital Health](#Praktikum) | Recherche Data Imputation |
+| 07/2024 - 09/2024  | [Praktikum Digital Health](#Praktikum-Digital-Health) | Recherche Data Imputation |
 | 10/2021 – 06/2024  | [Universität Leipzig](#Universität-Leipzig)  | M. SC. Data Science |
 | 03/2020 – 07/2022  | [IT Sonix Custom Development](#IT-Sonix-Custom-Development)  | Java Entwickler und DevOps Engineer |
 | 10/2019 – 03/2020  | [LEIPZIG-LAB by VISIT e.V.](#LEIPZIG-LAB-by-VISIT-e.V.)  | Software Entwickler |
@@ -24,7 +24,7 @@
 
 * Web Hosting für OpenSimulator
 
-### Praktikum
+### Praktikum Digital Health
 
 Das Praktikum fand im Rahmen der EKFZ for Digital Health - Summer School 2024 statt. In dem Praktikum habe ich eine Literaturrecherche zu den existierenden Methoden im Umgang mit fehlenden Daten (Data Imputation) durchgeführt. Anschließend habe ich die Methoden im Kontext des IntelliLung Projekts des Universitätsklinikums Carl Gustav Carus Dresden verglichen.
 

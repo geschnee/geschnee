@@ -9,5 +9,7 @@
 - Tel: 0049 1577 1832768
 
 ## Additional Infos
-* [Interessen](./interessen.md)
+* [Kenntnisse](./kenntnisse.md)
 * [Lebenslauf](./lebenslauf.md)
+* [Interessen](./interessen.md)
+
