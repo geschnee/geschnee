@@ -13,7 +13,7 @@
 
 | Zeitraum  | Organisation | Tätigkeit |
 | ------------- | ------- | ------------- |
-| 10/2024 - jetzt  | [Visit e.V.](#VISIT-e.V.) | IT Operations, Web Hosting |
+| 10/2024 - jetzt  | [Programmed Art e.V.](#VISIT-e.V.) | IT Operations, Ollama Hosting, Software Development |
 | 07/2024 - 09/2024  | [Praktikum Digital Health](#Praktikum-Digital-Health) | Recherche Data Imputation |
 | 10/2021 – 06/2024  | [Universität Leipzig](#Universität-Leipzig)  | M. SC. Data Science |
 | 03/2020 – 07/2022  | [IT Sonix Custom Development](#IT-Sonix-Custom-Development)  | Java Entwickler und DevOps Engineer |

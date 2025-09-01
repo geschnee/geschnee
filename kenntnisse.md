@@ -9,7 +9,7 @@
 | SQL | 4 | 5 | Studium, IT Sonix |
 | C# | 4 | 5 | Studium, Leipzig-Lab, Masterarbeit |
 | Unity | 4 | 5 | Studium, Android App Development, Leipzig-Lab, Masterarbeit |
-| OpenSimulator & SSL | 4 | 6 | Leipzig-Lab |
+| OpenSimulator & LSL | 4 | 6 | Leipzig-Lab |
 | Shell Scripting | 3 | 3 |  Leipzig-Lab , IT Sonix, Hobbyprojekte |
 | Java  | 3 | 6 | Studium, Android App Development, IT Sonix |
 | HTML + CSS | 2 | 3 | Studium, IT Sonix, Hobbyprojekte |
